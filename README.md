@@ -1,5 +1,5 @@
 # Password Generator
-<p>Project Website: <code>https://jkmjatin.github.io/Password-Generator/</code></p>
+<p>Project Website: https://jkmjatin.github.io/Password-Generator/</p>
 <hr>
 <li>Latest Version: <strong>password-generator_ver.2.2b.exe</strong></li>
 <br>
