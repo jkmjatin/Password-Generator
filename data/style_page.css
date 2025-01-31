@@ -1,0 +1,124 @@
+/* General Styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    margin: 40px auto;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 1.5rem;
+    border-bottom: 2px solid #444;
+    padding-bottom: 5px;
+    color: #ffffff;
+}
+
+/* Developer Info */
+.developer {
+    text-align: center;
+    font-size: 1rem;
+    color: #bbb;
+}
+
+/* Sections */
+.description, .features, .source-code {
+    margin-top: 20px;
+}
+
+.description a{
+    color: #FFC785;
+}
+
+/* Features List */
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features ul li {
+    font-size: 1rem;
+    padding: 5px 0;
+}
+
+/* Extra Notes */
+.note {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #ccc;
+}
+
+.open-source {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffcc00;
+}
+
+/* Repository Section */
+.repo {
+    display: flex;
+    align-items: center;
+    background-color: #222;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.repo img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.repo-info {
+    color: #ccc;
+}
+
+.repo-info a{
+    text-decoration: none;
+}
+
+.repo-info p {
+    margin: 0;
+}
+
+.author {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.source-code-explaination .latest-version{
+    color: #FFC785;
+}
+
+.source-code-explaination a{
+    text-decoration: none;
+}
+
+.pages-doc a{
+    color: #9ACBD0;
+}
+
+.contact-note{
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #577BC1;
+}
