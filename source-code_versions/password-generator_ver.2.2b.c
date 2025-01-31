@@ -1,3 +1,8 @@
+// Description: Password Generator is a simple open-source Python program that helps users create strong, customizable passwords effortlessly.
+// Developer: Jatin Kumar Mehta
+// Project Version: PGB_ver.2.2b
+// Project Started: 31-01-2025
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
